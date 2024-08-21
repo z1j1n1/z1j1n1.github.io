@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at Tsinghua University under the supervision of Prof. <a target="_blank" href="https://shixialiu.com">Shixia Liu</a>. Prior to that, I received a B.S. degree from Tsinghua University.
+I am currently a Ph.D. student at Tsinghua University under the supervision of Prof. <a target="_blank" href="https://shixialiu.com">Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering and minored in Statistics.
 
 My research interest lies in AI for visualization.
 
@@ -31,18 +31,16 @@ My research interest lies in AI for visualization.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCAD 2023</div><img src='images/survey_VA_for_DQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey of Visual Analytics Research for Improving Training Data Quality (in Chinese)](https://repo.vicayang.cc/A_Survey_of_Visual_Analytics_Research_for_Improving_Training_Data_Quality/index.html)
+A Survey of Visual Analytics Research for Improving Training Data Quality (in Chinese)
 
 Weikai Yang, Changjian Chen, **Jiangning Zhu**, Lei Li, Peng Liu, Shixia Liu.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/thu-vis/Visual-Analytics-Data-Quality) |
+[**Paper**](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.2023.2023-00321)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023* Tsinghua Future Scholar Scholarship. 
 - *2023* Outstanding Undergraduate of School of Software, Tsinghua University. 
 
