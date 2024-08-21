@@ -35,6 +35,8 @@ A Survey of Visual Analytics Research for Improving Training Data Quality (in Ch
 
 Weikai Yang, Changjian Chen, **Jiangning Zhu**, Lei Li, Peng Liu, Shixia Liu.
 
+CCF Journal of Computer-Aided Design & Computer Graphics. 2023.
+
 [**Project**](https://github.com/thu-vis/Visual-Analytics-Data-Quality) |
 [**Paper**](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.2023.2023-00321)
 </div>
