@@ -28,6 +28,21 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Structural-Entropy-Based Sample Selection for Efficient and Effective Learning
+
+Tianchi Xie`*`, **Jiangning Zhu`*`**, Guozu Ma, Minzhi Lin, Wei Chen, Weikai Yang, Shixia Liu.
+
+International Conference on Learning Representations. 2025.
+
+[**Project**](https://github.com/thu-vis/SE-based_sample_selection) |
+[**Paper**](https://openreview.net/forum?id=xUMI52rrW7)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCAD 2023</div><img src='images/survey_VA_for_DQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
