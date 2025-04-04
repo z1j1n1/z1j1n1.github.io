@@ -33,7 +33,7 @@ My research interest lies in AI for visualization.
 
 Structural-Entropy-Based Sample Selection for Efficient and Effective Learning
 
-Tianchi Xie*, **Jiangning Zhu** **`*`**, Guozu Ma, Minzhi Lin, Wei Chen, Weikai Yang, Shixia Liu.
+Tianchi Xie*, **Jiangning Zhu****`*`**, Guozu Ma, Minzhi Lin, Wei Chen, Weikai Yang, Shixia Liu.
 
 International Conference on Learning Representations. 2025.
 
