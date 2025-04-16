@@ -28,6 +28,21 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/SES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ReorderBench: A Benchmark for Matrix Reordering
+
+**Jiangning Zhu****`*`**, Zheng Wang*, Zhiyang Shen, Lai Wei, Fengyuan Tian, Mengchen Liu, Shixia Liu.
+
+IEEE Transactions on Visualization and Computer Graphics. 2025.
+
+[**Project**](https://github.com/reorderbench/reorderbench_code) |
+[**Paper**](https://ieeexplore.ieee.org/document/10964137)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SES.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
