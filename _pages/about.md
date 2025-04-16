@@ -43,7 +43,7 @@ IEEE Transactions on Visualization and Computer Graphics. 2025.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/SES.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/reorder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Structural-Entropy-Based Sample Selection for Efficient and Effective Learning
