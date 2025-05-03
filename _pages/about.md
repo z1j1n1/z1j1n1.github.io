@@ -28,6 +28,20 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/HCAGL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Hierarchical Fuzzy-Cluster-Aware Grid Layout for Large-Scale Data
+
+Yuxing Zhou, Changjian Chen, Zhiyang Shen, **Jiangning Zhu**, Jiashu Chen, Weikai Yang, Shixia Liu.
+
+IEEE Transactions on Visualization and Computer Graphics. 2025.
+
+[**Project**](https://github.com/HCAGridLayout/HCAGridLayout) |
+[**Paper**](https://ieeexplore.ieee.org/document/10982129)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/reorder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
