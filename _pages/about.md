@@ -28,7 +28,7 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/InfoDet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/InfoDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InfoDet: A Dataset for Infographic Element Detection
@@ -43,7 +43,7 @@ International Conference on Learning Representations. 2026.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/biasfield.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/biasfield.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 BiasField: Interactive Bias Probing of Machine Learning Datasets
@@ -128,4 +128,4 @@ CCF Journal of Computer-Aided Design & Computer Graphics. 2023.
 
 # 🤝 Services
 - Teaching Assistant
-  - Discrete Mathematics I (2023-2024)
+  - Discrete Mathematics I (2023-2025)
