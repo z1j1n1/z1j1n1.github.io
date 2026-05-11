@@ -28,6 +28,33 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/InfoDet.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+InfoDet: A Dataset for Infographic Element Detection
+
+**Jiangning Zhu**, Yuxing Zhou, Zheng Wang, Juntao Yao, Yima Gu, Yuhui Yuan, Shixia Liu
+
+International Conference on Learning Representations. 2026.
+
+[**Project**](https://https://github.com/infodet2025/InfoDet) |
+[**Paper**](https://openreview.net/forum?id=Wj0Sc9WBHZ) |
+[**Dataset**](https://huggingface.co/datasets/InfoDet/InfoDet)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/biasfield.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+BiasField: Interactive Bias Probing of Machine Learning Datasets
+
+Zhen Li, Weikai Yang, Xinhuan Shu, **Jiangning Zhu**, Hui Zhang, Shixia Liu
+
+IEEE Transactions on Visualization and Computer Graphics. 2026.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/HCAGL.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
