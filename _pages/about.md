@@ -52,6 +52,8 @@ Zhen Li, Weikai Yang, Xinhuan Shu, **Jiangning Zhu**, Hui Zhang, Shixia Liu
 
 IEEE Transactions on Visualization and Computer Graphics. 2026.
 
+[**Paper**](https://ieeexplore.ieee.org/document/11535172)
+
 </div>
 </div>
 
