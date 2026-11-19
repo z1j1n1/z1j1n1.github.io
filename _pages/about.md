@@ -28,6 +28,35 @@ My research interest lies in AI for visualization.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/DAD.png' alt="DAD detects graphic design elements and recovers occluded regions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Detect Anything in Graphic Design: Element-Level Rewards for Autoregressive Detection
+
+**Jiangning Zhu**, Bowen Li, Shenyu Qiao, Yima Gu, Zhao Zhang, Yuhui Yuan, Shixia Liu
+
+Advances in Neural Information Processing Systems. 2026.
+
+[**Project**](https://github.com/dad887/DAD) |
+[**Paper**](https://arxiv.org/abs/2609.07072) |
+[**Dataset**](https://huggingface.co/datasets/dad887/DAD)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2026</div><img src='images/EleDetective.jpg' alt="EleDetective interface with a treemap-based grid and scene tree for infographic element selection" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Interactive Target Element Selection in Infographics Via Scene Tree Modeling
+
+**Jiangning Zhu**, Yuxing Zhou, Lei Li, Shixia Liu
+
+IEEE Transactions on Visualization and Computer Graphics. 2026.
+
+[**Project**](https://github.com/EleDetective/EleDetective) |
+[**Paper**](https://doi.org/10.1109/TVCG.2026.3738881)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/InfoDet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +66,7 @@ InfoDet: A Dataset for Infographic Element Detection
 
 International Conference on Learning Representations. 2026.
 
-[**Project**](https://https://github.com/infodet2025/InfoDet) |
+[**Project**](https://github.com/infodet2025/InfoDet) |
 [**Paper**](https://openreview.net/forum?id=Wj0Sc9WBHZ) |
 [**Dataset**](https://huggingface.co/datasets/InfoDet/InfoDet)
 </div>
