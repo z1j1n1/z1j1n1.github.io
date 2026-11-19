@@ -30,17 +30,33 @@ jobs:
         python -m pip check
         python -c "from scholarly import scholarly; from bibtexparser.bibdatabase import BibDatabase"
     - name: Fetch citation data
+      id: fetch
       working-directory: google_scholar_crawler
-      timeout-minutes: 5
-      run: python main.py
+      timeout-minutes: 3
+      run: |
+        if timeout --kill-after=5s 120s python -u main.py; then
+          echo "updated=true" >> "$GITHUB_OUTPUT"
+          echo "Google Scholar citation data fetched successfully." >> "$GITHUB_STEP_SUMMARY"
+        else
+          status=$?
+          if [ "$status" -eq 124 ] || [ "$status" -eq 75 ]; then
+            echo "::warning::Google Scholar is unavailable or timed out. Keeping the previous citation data; the next scheduled run will retry."
+            echo "updated=false" >> "$GITHUB_OUTPUT"
+            echo "Google Scholar update skipped: the service was unavailable or timed out. Existing citation data was not changed. The next scheduled run will retry." >> "$GITHUB_STEP_SUMMARY"
+          else
+            exit "$status"
+          fi
+        fi
       env:
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
     - name: Check out citation data branch
+      if: steps.fetch.outputs.updated == 'true'
       uses: actions/checkout@v7
       with:
         ref: google-scholar-stats
         path: citation-data
     - name: Publish citation data
+      if: steps.fetch.outputs.updated == 'true'
       run: |
         cp google_scholar_crawler/results/*.json citation-data/
         cd citation-data

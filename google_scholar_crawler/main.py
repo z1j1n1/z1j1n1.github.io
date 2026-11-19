@@ -1,11 +1,21 @@
 from scholarly import scholarly
+from scholarly._proxy_generator import MaxTriesExceededException
 import jsonpickle
 import json
+import logging
 from datetime import datetime
 import os
+import sys
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
-scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+scholarly.set_logger(True)
+
+try:
+    author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+    scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+except MaxTriesExceededException as exc:
+    print(f'Google Scholar is temporarily unavailable: {exc}', file=sys.stderr)
+    sys.exit(75)
 name = author['name']
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
