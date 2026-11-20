@@ -48,7 +48,9 @@ Advances in Neural Information Processing Systems. 2026.
 
 Interactive Target Element Selection in Infographics Via Scene Tree Modeling
 
-**Jiangning Zhu**, Yuxing Zhou, Lei Li, Shixia Liu
+**Jiangning Zhu**<sup>*</sup>, Yuxing Zhou<sup>*</sup>, Lei Li, Shixia Liu
+
+<sup>*</sup> Equal contribution.
 
 IEEE Transactions on Visualization and Computer Graphics. 2026.
 
