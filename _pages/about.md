@@ -50,8 +50,6 @@ Interactive Target Element Selection in Infographics Via Scene Tree Modeling
 
 **Jiangning Zhu**<sup>*</sup>, Yuxing Zhou<sup>*</sup>, Lei Li, Shixia Liu
 
-<sup>*</sup> Equal contribution.
-
 IEEE Transactions on Visualization and Computer Graphics. 2026.
 
 [**Project**](https://github.com/EleDetective/EleDetective) |
